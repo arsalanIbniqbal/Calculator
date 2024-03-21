@@ -5,7 +5,6 @@ int main() {
     double num1, num2;
     int choice;
 
-    printf("Choose operation:\n");
     printf("1. Add\n");
     printf("2. Subtract\n");
     printf("3. Multiply\n");
